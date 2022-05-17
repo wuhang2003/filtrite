@@ -1,0 +1,2 @@
+# AdRules AdBlock Full List
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock+adguard.txt

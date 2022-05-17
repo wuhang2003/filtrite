@@ -1,0 +1,2 @@
+# XXKiller 广告拦截规则
+https://raw.githubusercontent.com/DoingDog/XXKiller/main/w.txt
